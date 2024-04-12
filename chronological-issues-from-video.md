@@ -1,4 +1,4 @@
- 
+# By Magnus 
 
 ## Faucet Issues
 - If you have any issues with a faucet, please try another testnet. You'll have to update some contract addresses based on the testnet you're working on. You can find the [most up to date faucets here.](https://docs.chain.link/docs/link-token-contracts/) 
